@@ -21,7 +21,9 @@ Installation:
 
 1. Download the latest release from [Releases](https://github.com/Ayanaminn/NeuroBox/releases).
 
-2. Unzip file and double click to run "NeuroBox.exe".
+2. Unzip and open "NeuroBox" folder.
+
+4. Double click to run "NeuroBox.exe".
 
 
 ### Hardware
